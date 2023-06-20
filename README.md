@@ -13,5 +13,6 @@ No Socials Available
 
 ## Official Design
 
-![VisualsRegister](https://media.discordapp.net/attachments/880166106273296475/1117142688324657292/Screenshot_522.png?width=1123&height=632)
-![VisualsXMenu](https://cdn.discordapp.com/attachments/880166106273296475/1117142266675470436/Preview2.png)
+![Test1](https://cdn.discordapp.com/attachments/949636760831418409/1120677511739740200/2021-05-27_17-05-37_Trim.mp4)
+![Test2](https://cdn.discordapp.com/attachments/949636760831418409/1120677512264040529/2021-05-27_17-08-52_Trim.mp4)
+![Test3](https://cdn.discordapp.com/attachments/949636760831418409/1120677513161617488/2021-05-27_19-11-36_Trim.mp4)
