@@ -20,6 +20,6 @@ No Socials Available
 
 ## Official Design
 
-![Test1](https://cdn.discordapp.com/attachments/949636760831418409/1120678134728106125/Screenshot_529.png)
-![Test2](https://cdn.discordapp.com/attachments/949636760831418409/1120678134975574036/Screenshot_528.png)
-![Test3](https://cdn.discordapp.com/attachments/949636760831418409/1120678135248211968/Screenshot_527.png)
+![Test1](https://i.ibb.co/5cXF7Vd/Screenshot-30.png)
+![Test2](https://i.ibb.co/TT9T5p0/Azo-Client-v-Alpha-02-06-2021-22-15-50.png)
+![Test3](https://i.ibb.co/y8qfSq5/Screenshot-12.png)
