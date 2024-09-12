@@ -20,7 +20,7 @@ No Socials Available
 
 ## Official Design
 
-#Development Videos: 
+# Development Videos: 
 [First Instance](https://youtu.be/FDBtTKi5PEs)
 [Frontpage](https://youtu.be/DJ0qKhePOJM)
 
