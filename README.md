@@ -21,9 +21,9 @@ No Socials Available
 ## Official Design
 
 #Development Videos: 
-![First Instance](https://youtu.be/FDBtTKi5PEs)
-![Frontpage](https://youtu.be/DJ0qKhePOJM)
+[First Instance](https://youtu.be/FDBtTKi5PEs)
+[Frontpage](https://youtu.be/DJ0qKhePOJM)
 
-![Test1](https://i.ibb.co/5cXF7Vd/Screenshot-30.png)
-![Test2](https://i.ibb.co/TT9T5p0/Azo-Client-v-Alpha-02-06-2021-22-15-50.png)
-![Test3](https://i.ibb.co/y8qfSq5/Screenshot-12.png)
+![Login](https://i.ibb.co/5cXF7Vd/Screenshot-30.png)
+![Frontpage](https://i.ibb.co/TT9T5p0/Azo-Client-v-Alpha-02-06-2021-22-15-50.png)
+![Ingame](https://i.ibb.co/y8qfSq5/Screenshot-12.png)
