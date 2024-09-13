@@ -21,7 +21,7 @@ No Socials Available
 # Official Design
 
 ## Development Videos: 
-[First Instance](https://youtu.be/FDBtTKi5PEs)
+[First Instance](https://youtu.be/ahKlsqTs6ao)
 [Frontpage](https://youtu.be/DJ0qKhePOJM)
 
 ## Development Images: 
